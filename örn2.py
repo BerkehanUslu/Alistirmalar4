@@ -69,10 +69,7 @@ def Sezar_cozme():
 
     cry_txt = "".join(cry_txt)
 ##    liste tipinden, tekrardan string tipine ceviririz.
-    
-    print(cry_txt)
-    
-    
+ 
     i = 0    
     for k in range(len(cry_txt)):
         (emp[i]).append(cry_txt[k])
